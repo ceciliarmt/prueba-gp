@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Freelancer Theme</title>
+    <link>http://ceciliarmt.github.io/prueba-gp/</link>
+    <description>Recent content on Hugo Freelancer Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Oct 2017 09:06:18 -0500</lastBuildDate>
+    
+	<atom:link href="http://ceciliarmt.github.io/prueba-gp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://ceciliarmt.github.io/prueba-gp/posts/my-first-post/</link>
+      <pubDate>Wed, 11 Oct 2017 09:06:18 -0500</pubDate>
+      
+      <guid>http://ceciliarmt.github.io/prueba-gp/posts/my-first-post/</guid>
+      <description> Can u see me?!! </description>
+    </item>
+    
+  </channel>
+</rss>
